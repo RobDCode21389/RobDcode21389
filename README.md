@@ -1,6 +1,6 @@
 # Hi I am Robert Davis 
 
-Frontend Developer || HTML || CSS || CSS || JavaScript || React 
+Frontend Developer || HTML || CSS || JavaScript || React 
 
 Built modern responsive and interactive web sites with a personal flare 
 
