@@ -2,7 +2,7 @@
 
 Frontend Developer || HTML || CSS || JavaScript || React 
 
-Built modern responsive and interactive web sites with a personal flare 
+Built modern responsive and interactive websites with a personal flair 
 
 # 💫 About Me:
 ### Hi there, I'm Robert Davis 👋<br><br>I’m a self-taught **Front-End Developer** who loves building sleek, responsive, and real-world web applications from scratch. I focus on turning dynamic designs into clean, accessible code.<br><br>* 🛠️ **Tech Stack:** HTML5, CSS3, JavaScript (ES6+), React, Vite, Git/GitHub, Netlify<br>* 💈 **Featured Project:** [The Cut Room](https://thecutroomdemo.netlify.app/) — A responsive modern barbershop web application built with React, featuring service showcase components and mobile-optimized dynamic viewports.<br>* 🎨 **Design & Assets:** Skilled in working with UI layout logic, CSS media queries, and asset management in Photoshop.<br>* 🚀 **Currently Doing:** Refining mobile UX design, building interactive React components, and polishing production-ready web apps.<br><br>📫 **Let's Connect:** <br>[LinkedIn] https://www.linkedin.com/in/robert-davis-7683b03b9/ | [Portfolio] https://robertdavis-front-end-developer.netlify.app/ | [Email] robdcode1389@yahoo.com
